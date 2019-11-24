@@ -1,2 +1,2 @@
 # Playstore-Reviews
-Scrapping google playstore app reviews
+Scrapping reviews of different apps from google playstore
